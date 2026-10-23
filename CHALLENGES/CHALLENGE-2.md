@@ -1,13 +1,12 @@
 # OpenCS Challenge: Build an AI Agent Using Free API Providers
 
 - Challenge ID: 2
-- Topic: AI Agents, Python, API Integration, and Automation.
 - Created by: OpenCS Community member
 - Deadline: 2026-10-29T16:00:00.000Z
 - Status: open
 - Submissions: 0
 
-## Challenge description
+## Task
 Challenge Description
 Build a functional AI agent using Python and free-tier AI APIs. Your agent should answer questions, assist with coding, or perform useful tasks. Bonus points for multi-provider fallback, memory, and tool calling.
 
@@ -37,7 +36,7 @@ Requirements
 Challenge Goal
 Build a working AI agent and share it with the OpenCS Community.
 
-## Participants and leaderboard
+## Leaderboard
 
 No solutions submitted yet.
 
